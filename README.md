@@ -39,7 +39,7 @@
     alt="AI Agent"
   />
 </p>
-
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/IT-Althusser/badge.svg)](https://hub.xerj.org/contributors/IT-Althusser)
 <p align="center">
   感谢你来到我的 GitHub 👋
 </p>
