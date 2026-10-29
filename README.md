@@ -39,7 +39,13 @@
     alt="AI Agent"
   />
 </p>
+
+## 🔎 XERJ Corpus Hub
+
+我的 Apache ShenYu 代码贡献已被 XERJ Corpus Hub 收录，AI coding agents 可以基于真实源码检索实现细节。
+
 [![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/IT-Althusser/badge.svg)](https://hub.xerj.org/contributors/IT-Althusser)
+
 <p align="center">
   感谢你来到我的 GitHub 👋
 </p>
